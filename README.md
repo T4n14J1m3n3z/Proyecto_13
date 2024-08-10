@@ -1,4 +1,5 @@
-# Descripción del proyecto
-La compañía Sweet Lift Taxi ha recopilado datos históricos sobre pedidos de taxis en los aeropuertos. Para atraer a más conductores durante las horas pico, necesitamos predecir la cantidad de pedidos de taxis para la próxima hora. Construye un modelo para dicha predicción.
+# Predicting Taxi Orders for Peak Hours Using Historical Data
 
-La métrica RECM en el conjunto de prueba no debe ser superior a 48.
+Sweet Lift Taxi has collected historical data on taxi orders at airports. To attract more drivers during peak hours, we need to predict the number of taxi orders for the next hour. Build a model for this prediction.
+
+The RMSE on the test set should not exceed 48.
